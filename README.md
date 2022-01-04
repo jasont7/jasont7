@@ -5,6 +5,4 @@
 
 ---
 
-**Check out my [Resume](https://drive.google.com/file/d/1tqxcP_PtlgHdA7KvobG8id_lf97NSuA1/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jason-thomo)**
-
-<a href="http://example.com/" target="_blank">example</a>
+Check out my **[Resume](https://drive.google.com/file/d/1tqxcP_PtlgHdA7KvobG8id_lf97NSuA1/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jason-thomo)**
