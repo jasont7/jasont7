@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 3rd Year CS @ [UVic](https://uvic.ca)
-- Co-Founder @ [Sanctuary Sneakers](https://sanctuarysneakers.com)
+- Co-Founder & CTO @ [Sanctuary Sneakers](https://sanctuarysneakers.com)
 - Prev. Intern @ [BlackBerry UES](https://www.blackberry.com/us/en/products/unified-endpoint-security)
 
 ---
