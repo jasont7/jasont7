@@ -5,4 +5,4 @@
 
 ---
 
-Check out my **[Resume](https://drive.google.com/file/d/1-R_iCTf51SePuyhgm-g-HjSiqPa1VRg8/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jason-thomo)**
+### Check out my [Resume](https://drive.google.com/file/d/1-R_iCTf51SePuyhgm-g-HjSiqPa1VRg8/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jason-thomo)
