@@ -6,3 +6,5 @@
 ---
 
 ### Check out my [Resume](https://drive.google.com/file/d/1-R_iCTf51SePuyhgm-g-HjSiqPa1VRg8/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jason-thomo)
+
+![](https://komarev.com/ghpvc/?username=jasont7&color=brightgreen&style=plastic&label=PV)
